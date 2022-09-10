@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+ <html lang="pl-PL">
+ <html>
+    <head>
+    <meta charset="utf-8">
+   <title> Daniel Czerczon 1P </title>  
+   <p><b>Adres: 81-189 </b><i> Gdansk Dabrowszczakow </i><strike> Ul. Mickiewicza </strike><u> 102/35 </u></p><br>
+
+  </head>
+<body>
+Daniel Czerczon 
+</body>
+<h1>x<sup>*</sup>x<sup>2</sup>x2</h1>
+
+ <p align="right"> <font color="red" size="1" face="Arial"> Daniel Czerczon </p>
+  <p align="right"> <font color="orange" size="2" face="Arial"> Daniel Czerczon </p>
+   <p align="right"> <font color="red" size="3" face="Arial"> Daniel Czerczon </p>
+    <p align="right"> <font color="orange" size="4" face="Arial"> Daniel Czerczon </p>
+     <p align="right"> <font color="red" size="5" face="Arial"> Daniel Czerczon </p>
+      <p align="right"> <font color="orange" size="6" face="Arial"> Daniel Czerczon </p>
+       <p align="right"> <font color="red" size="7" face="Arial"> Daniel Czerczon </p>
+
+  <h1> Daniel </h1><br>
+   <h2>Daniel </h2><br>
+    <h3>Daniel </h3><br>
+     <h4>Daniel</h4><br>
+      <h5>Daniel</h5><br>
+       <h6>Daniel</h6><br> 
+       
+ <h2 face="Arial" :( smutek </h2>
+ <h2 face="Verdana" :c duzy smutek </h2>
+ <h2 face="Times New Roman" :) usmiech </h2>
+ <h2 face="Courier New" >:( zlosc </h2>
+ <h2 face="Georgia" :/ niezrozumienie </h2>
+ <h2 face="Tahoma" -_- bez wyrazu </h2>
+
+<p align="left"> <font color="black" size="5" face="Times New Roman"> Ulubiony aktor: Robert Downey Jr </font> </p> <br>
+<p align="right"> <font color="green" size="4" face="Verdana"> Ulubiony zespol muzyczny: Rammstein </font> </p> <br>
+<center> <p> Data urodzenia: 5 stycznia 1996 roku</p> </center><br>
+<h1>H<sub>2</sub>SO<sub>4</sub></h1>
+
+</html>
