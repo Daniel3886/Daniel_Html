@@ -71,4 +71,38 @@ Jasiu zwraca się do dziadzia: <br>
 - Czemu tak mało?
  </legend>
  </fieldset>
+
+     <br><br><br>
+     <h1> poniżej są trzy wyliczenia z różnymi znakami wyliczenia</h1>
+     <h1> Ty zaproponuj swoje, związane z informatyką</h1>
+ 
+
+ <UL TYPE=circle>
+      <li><b> Programowania robimy bez końca</b>
+      <li><i> Wraz z pracami domowymi</i>
+      <li><u>i wciąż dostajemy jedynki</u>
+</ul>
+    <UL TYPE=square>
+         <li><b> Java Script, C++, Html, Python<b> 
+         <li><i>Mamy za tę 5 lat zapamietać całkowicie</i>
+         <li> Ale bez względu na to mamy wciąż chemię i plastykę?!
+</ul>
+  <UL TYPE=disk>
+       <li> Jutro będę kupował komputer
+       <li><i>Chciałbym ten który ma 2 dyski i 160 GB<i>
+       <li> Ale żeby taki mieć muszę go samemu stworzyć?
+</ul>
+     <br><br><br>
+     <h2> poniżej są trzy numerowania z różnymi znakami numerowania</h2>
+     <h2> Ty zaproponuj swoje, związane z informatyką</h2>
+                <OL TYPE=I START=1>
+                <LI> To
+                <LI> jest
+                <LI> lista
+                <LI> numerowana </OL>
+                <UL>
+   <LI> sieci komputerowe
+   <UL>
+          <h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
+          <h3> Ty zaproponuj swoje, związane z informatyką</h3>
 </html>
