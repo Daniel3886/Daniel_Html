@@ -94,15 +94,28 @@ Jasiu zwraca się do dziadzia: <br>
 </ul>
      <br><br><br>
      <h2> poniżej są trzy numerowania z różnymi znakami numerowania</h2>
-     <h2> Ty zaproponuj swoje, związane z informatyką</h2>
+     <h2> Możliwośći funkcji align</h2>
                 <OL TYPE=I START=1>
-                <LI> To
-                <LI> jest
-                <LI> lista
-                <LI> numerowana </OL>
+                <LI>1 < p align="left" > - zmiana strony tekstu na lewo
+                <LI>2 < p align="right" > - zmiana strony tekstu na prawo
+                <LI>3 < p align="center" > - zmiana strony tekstu na środek </OL>
+       <br><br><br>
+      <h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
+       <h3> Ty zaproponuj swoje, związane z informatyką </h3>
+                
                 <UL>
-   <LI> sieci komputerowe
-   <UL>
-          <h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
-          <h3> Ty zaproponuj swoje, związane z informatyką</h3>
+                       <LI>  Skróty znanych znaczków informatycznych               
+                                <UL> WWW - World Wide Web 
+                                <LI> HTTPS - Hypertext Transfer Protocol Secure
+                                <LI> HTML -  HyperText Markup Language 
+                                <LI> PDF - Portable Document Format
+                         </UL>
+                  <LI> Popularne skróty klawiszowe 
+                          <UL>
+                                 <LI> CTRL C - kopiuj
+                                 <LI> CTRL V - wklej 
+                                 <LI> ALT F4 - zamknij komputer 
+                           </UL>
+           </UL>
+        
 </html>
