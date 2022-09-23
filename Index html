@@ -11,10 +11,12 @@
 Daniel Czerczon 
 </body>
 <h1>x<sup>*</sup>x<sup>2</sup>x2</h1>
-    <a href="poczta_czerczon.html"> link do poczty </A> <br>
+   
+   <a href="poczta_czerczon.html"> link do poczty </A> <br>
      <a href="plik_czerczon.html"> link do pliku </A> <br>
       <a href="tabela_czerczon.html"> link do tabeli </A> <br>
        <a href="formularz_czerczon.html"> link do formularzu </A>
+       
  <p align="right"> <font color="red" size="1" face="Arial"> Daniel Czerczon </p>
   <p align="right"> <font color="orange" size="2" face="Arial"> Daniel Czerczon </p>
    <p align="right"> <font color="red" size="3" face="Arial"> Daniel Czerczon </p>
